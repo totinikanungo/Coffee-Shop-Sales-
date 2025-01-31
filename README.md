@@ -17,10 +17,10 @@ The primary goal of this project is to analyze retail sales data to gain actiona
 
 
 ## **STEPS & METHODOLOGY**
-## Data Collection: Imported raw sales data from Kaggle
-## Data Cleaning: Processed and refined data using Power Query Editor
-## Data Transformation: Created pivot tables and custom measures
-## Data Visualization: Designed an interactive dashboard with:
+- Data Collection: Imported raw sales data from Kaggle
+- Data Cleaning: Processed and refined data using Power Query Editor
+- Data Transformation: Created pivot tables and custom measures
+- Data Visualization: Designed an interactive dashboard with:
 Slicers for filtering data dynamically
 Pie charts and bar charts for insightful visualizations
 Custom measures to enhance data analysis
